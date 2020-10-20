@@ -1,0 +1,24 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product span {
+    font-size: 30px;
+}
+
+.product img {
+    width: 200px;
+    padding-top: 100px;
+}
+
+.container {
+    padding: 30px;
+    font-size: 26px;
+}
+
+.container button {
+    font-size: 26px;
+    background: none;
+}
